@@ -10,7 +10,7 @@ import Chess.Player;
 
 public class Board
 {
-	Piece[][] board;
+	public Piece[][] board;
 		public Board()
 		{
 			board=new Piece[8][8];
